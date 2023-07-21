@@ -1,0 +1,5 @@
+﻿TourismType,PartOfCommon,TouristGropBySalary,PartOfIncoming,TouristGropByDays,TripDays,PartOfCommon1
+Круизный,15%,Низкий ,20%,Очень короткий,2-3,30%
+Культурно-познавательный,35%,Средний ,55%,Короткий,5-7,40%
+Природный,20%,Высокий,25%,Средний,9-14,25%
+Деловой,30%,,,Длинный,18-23,5%
